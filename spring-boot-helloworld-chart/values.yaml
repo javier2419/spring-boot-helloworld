@@ -1,8 +1,8 @@
 replicaCount: 1
 
 image: 
-  repository: "gazgeek/springboot-helloworld"
-  tag: "latest"
+  repository: "jitn/spring-boot-helloworld"
+  tag: "0.0.1"
   pullPolicy: IfNotPresent
 
 deployment:
